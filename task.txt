@@ -1,0 +1,10 @@
+search
+---------------------------------
+- flexbox child properties
+- flex vs inline-flex
+position and transform(translate)  
+- real world ex 
+- before , after [Psuedo Element]
+    - real world example
+----------------------------------
+animation-fill-mode
